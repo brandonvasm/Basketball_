@@ -1,0 +1,12 @@
+¿Qué es GIT?
+Sistema que sirve para controlar versiones de sistemas
+▪ ¿Qué es un pull request?
+Colaboración entre desarrolladores
+▪ ¿Qué es un commit?
+Sirve para capturar cambios en los proyectos
+▪ ¿GIT y GitHub es lo mismo? Explique
+No, git sirve para trabajar repositorios mientras que github es una página web 
+▪ ¿Qué es scrum?
+Forma de estructurar trabajos de un equipo forma parte de ágil 
+▪ ¿Para qué sirve una metodología ágil de desarrollo?
+Realizar diferentes partes para el usuario en menos tiempo
